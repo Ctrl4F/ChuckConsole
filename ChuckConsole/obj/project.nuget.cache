@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJz+VJCksXO7gNXjk69RuJRHtJ01hyTkhqft2EuthOhePKOe4OIg51Aa7iqG3iul2ZlPk/RDUNQhySyjPEuZ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikes\\source\\repos\\ChuckConsole\\ChuckConsole\\ChuckConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikes\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
